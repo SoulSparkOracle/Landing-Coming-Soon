@@ -1,0 +1,23 @@
+{
+  "name": "soulspark-oracle-landing",
+  "version": "1.0.0",
+  "description": "Coming Soon landing page for SoulSpark Oracle Voices",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "next-i18next": "^15.4.2",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "keywords": [
+    "soulspark",
+    "oracle",
+    "mystical",
+    "ai"
+  ],
+  "license": "MIT"
+}
